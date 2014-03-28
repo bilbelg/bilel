@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+Detection_Nom/src/Noms/BilelDetect_NomTest.java
+Detection_Nom/src/Noms/Detect_Nom.java
+Detection_Nom/src/Noms/Personne.java
