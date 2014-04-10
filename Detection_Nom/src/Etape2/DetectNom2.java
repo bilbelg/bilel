@@ -6,7 +6,8 @@ public interface DetectNom2 {
 
 	public Personne2 PersonFromTxt (String txt);
 	
-	public int nameDistance (String nom1,String nom2);
+	public int nameDistance (String chaine1,String chaine2);
 	
-	public int nameDistance(String nom, Personne2 refPerson);
+	public int nameDistance(String chaine1, Personne2 refPerson);
+	
 }
